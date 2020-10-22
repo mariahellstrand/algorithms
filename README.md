@@ -4,10 +4,9 @@ Projects in the course EDAF05 - Algorithms, data structures, and complexity
 ## 1stablemarriage
 
 Algorithm based on the stable marriage problem given two equally sized sets of elements. A matching is stable when there doesn't exists a match between two elements of different sets that would both rather have each other than their current partners.
-
- - Observe that the classes needs to be compiled before running -
  
- ### How to run
+ ### How to run  
+ (Observe that the classes needs to be compiled before running)
  $ **java Main.java file**
  
  Two example files are given and can be used
