@@ -7,6 +7,7 @@ Algorithm based on the stable marriage problem given two equally sized sets of e
  
  ### How to run  
  (Observe that the classes needs to be compiled before running)
+ 
  $ **java Main.java file**
  
  Two example files are given and can be used
